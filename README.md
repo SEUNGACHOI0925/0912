@@ -1,8 +1,8 @@
 # ✨0912 레포트 
  ###  📙목차 <br/>
 1. <a href="https://seungachoi0925.github.io/0912/index.html">웹기획 종류 3가지</a>
-2.  <a href="https://seungachoi0925.github.io/0912/index2.html"> 정보구조도(트리형)</a>
-3. <a href="https://seungachoi0925.github.io/0912/index3.html">스토리보드</a>
+2.  <a href="https://seungachoi0925.github.io/0912/home2.html"> 정보구조도(트리형)</a>
+3. <a href="https://seungachoi0925.github.io/0912/home3.html">스토리보드</a>
 
 ##
 
