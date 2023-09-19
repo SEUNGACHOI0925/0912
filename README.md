@@ -14,49 +14,65 @@
 ##
 ### 🖊️2 정보구조도(트리형)
   
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/59eb322b-609d-482b-9490-a94d8d3f9a3c)
+![IA 정보구조도 1](https://github.com/SEUNGACHOI0925/0912/assets/112832677/db3444c2-6f8a-4470-8698-5a6c8a1e0931)
+
 <br/>
 <레포트 페이지 구조도><br/>
 
-![IA 정보구조도 2](https://github.com/SEUNGACHOI0925/0912/assets/112832677/d62cc2c7-b54a-4728-a6e6-4ee2456b9600)<br/>
+![IA 정보구조도 2](https://github.com/SEUNGACHOI0925/0912/assets/112832677/1c415a46-d5c9-4bed-848d-780c1dfe2fd5)
+<br/>
 <쇼핑몰 페이지 구조도><br/>
 
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/7f2f6686-6131-4480-9442-df530b760b3b)
+![IA 정보구조도 3](https://github.com/SEUNGACHOI0925/0912/assets/112832677/4f469a45-8bd9-4ede-ada3-b665be190f59)
+
 <br/>
 <포트폴리오 페이지 구조도><br/><br/>
 
 ### 🖌️3 스토리보드
 #### - 레포트 제출용 페이지 스토리보드
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/9d7669dc-ef1c-4f55-b92f-a6dbb20e47cf)<br/>
+
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/37e79f9f-d5f6-44ad-b6fa-1660a99ffd11)<br/>
 학생의 정보와 링크된 버튼으로 레포트 목록 화면으로 이동 합니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/61119703-0ab2-4c38-9b55-511acbb79750)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/423164ba-5dc7-4d6c-b73f-852f5684f0ac)
+<br/>
 화면상에 올려진 레포트의 목록 확인이 가능합니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/0c79c342-f460-415b-b79e-987bc0849537)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/1000b793-1af5-4d31-9518-667cf5d249c2)
+<br/>
 올려진 레포트의 상세 내용을 조회 할 수 있습니다.<br/><br/>
 
 #### - 쇼핑몰 페이지 스토리보드 <br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/a57353e1-65a2-48ef-921a-83aa95c72f9d)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/5e6869ef-3bf0-41a6-9f63-87b6fd234fc0)
+<br/>
 계절별로 올려지는 시즌배너와 카테고리별, BEST 상품 등을 조회 후 이동 할 수 있게 구성 했습니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/6e880336-8980-4114-bb9e-8cd60f86c4a6)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/5c888ad5-769f-4cb9-93b0-34d8f74589d6)
+<br/>
 제품의 상세내용, 이미지, 금액, 리뷰, 문의 사항 등을 조회 할 수 있습니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/b3b75a8e-c403-4a5f-90b8-cd19de2a466c)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/c2cbb267-5e50-4336-82e9-06703d9252b7)
+<br/>
 로그인 화면입니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/ca114148-92c3-460b-b68d-ba7f63261257)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/dee71cc7-5aab-41e1-b1a3-08646ac52dc4)
+<br/>
 회원가입 화면입니다. <br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/7b69eb5f-1935-49d2-bcf2-9b238165da54)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/3b7f266b-4051-4500-a480-28cd6b7b5a56)
+<br/>
 장바구니 화면입니다. 체크박스 선택시 선택삭제 가능하게 기획했습니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/4824b661-d0fd-4127-a7ff-2ba919b1fe85)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/121ba0e3-a99c-4da4-b699-7ca58bb105ea)
+<br/>
 마이페이지의 주문내역 화면입니다. 1개에서 최대 2개까지 접힌 상태에서 조회가능하고, 더보기 클릭시 전체 목록 확인 가능합니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/404e9848-2e65-492c-9460-2d9ec0735dc5)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/5704a0ff-a4f3-4c53-8bac-f555e5969da5)
+<br/>
 마이페이지의 회원정보 수정 화면입니다.<br/><br/>
 
 
 #### - 포트폴리오 페이지 스토리보드<br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/43813258-e5c5-42b3-9c5c-d1779d9cc2f9)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/16369b3f-ca33-479c-b440-80a783904efa)
+<br/>
 포트폴리오 페이지의 첫화면 입니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/66c48dfa-3fff-4f20-a75c-d1c2d2aee360)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/696c8804-fece-40d7-a1d3-53ca0c658b0e)
+<br/>
 프로젝트 이미지와 추가설명을 덧붙일 수 있습니다.<br/><br/>
-![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/f3e79088-131b-4ff4-8fdf-9e7f3e04cab6)<br/>
+![image](https://github.com/SEUNGACHOI0925/0912/assets/112832677/b4bcfbb1-5205-487a-afd8-60a46b72f87c)
+<br/>
 글자를 클릭하면 이용자의 페이지로 이동할 수 있게 링크 할 수 있게 구성했습니다.<br/><br/>
 
 
